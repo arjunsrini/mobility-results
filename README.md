@@ -2,12 +2,10 @@
 
 Temporary table
 
-```markdown
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
-```
 
 ### Markdown example
 
