@@ -1,32 +1,10 @@
 ## US educational mobility
 
-Temporary table
+![]()
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-### Markdown example
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Support 
-
-[documentation](https://docs.github.com/categories/github-pages-basics/) 
+Sitemap:
+- [Documentation](./docs)
+- [Moments by Dataset](./moms)
+- [Moments by Dataset and Race](./moms_by_race)
+- [Transition Matrices](./tms)
+- [Transition Matrices by Race](./tms_by_race)
