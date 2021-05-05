@@ -10,3 +10,6 @@ Transition matrices:
 - [1960 Birth Cohort by Race (PSID)](./1960psid_tms_race)
 - [1970 Birth Cohort by Race (PSID)](./1970psid_tms_race)
 - [1980 Birth Cohort by Race (PSID)](./1980psid_tms_race)
+
+Time series:
+- [E(Y>K | X<50)](./ts_mus)
