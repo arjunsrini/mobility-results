@@ -12,4 +12,6 @@ Transition matrices:
 - [1980 Birth Cohort by Race (PSID)](./1980psid_tms_race)
 
 Time series:
-- [Bottom half to top k%](./ts_mus)
+- [Bottom half to top k% by race](./ts_mus)
+- [Bottom half to top k% by race and gender](./ts_mus_g)
+- Bottom half 

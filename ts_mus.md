@@ -1,4 +1,5 @@
-## Plots of E[Y>K | X<50] over time
+## Plots of E[Y>K | X<50] over time by race
+Estimated with sons
 
 ![bottom_half_to_above_19](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/ts/ts_bh_19.png)
 
