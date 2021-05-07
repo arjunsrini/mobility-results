@@ -1,7 +1,12 @@
 ## US educational mobility
 
 Moments
-- [1920 Birth Cohort Moments](./1920_moms)
+<details>
+    <summary>[1920 Birth Cohort Moments](./1920_moments)</summary>
+
+    [Mean Son Rank by Father Rank: 1940 Census png]https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/moms_1920bc.png()
+    [Mean Son Rank by Father Rank: 1940 Census by Race png](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/moms_1920bc_race.png)
+</details>
 
 Transition matrices:
 - [1920 Birth Cohort (1940 Census)](./1920_tms)
@@ -12,6 +17,5 @@ Transition matrices:
 - [1980 Birth Cohort by Race (PSID)](./1980psid_tms_race)
 
 Time series:
-- [Bottom half to top k% by race](./ts_mus)
-- [Bottom half to top k% by race and gender](./ts_mus_g)
-- Bottom half 
+- [Bottom half to top k% by race](./ts)
+- [Bottom half to top k% by race and gender](./ts_gender)
