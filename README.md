@@ -31,3 +31,6 @@ Time series:
     - [E(Y>20\|X<50)](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/ts/ts_bh_20_gndr.png)
     - [E(Y>25\|X<50)](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/ts/ts_bh_25_gndr.png)
     - [E(Y>33\|X<50)](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/ts/ts_bh_33_gndr.png)
+- Bottom half to hs, college by race
+    - [Plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/ts/ts_bh_levels.png)
+    - [Boundaries by dataset](./boundaries)
