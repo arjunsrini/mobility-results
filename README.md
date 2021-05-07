@@ -2,10 +2,11 @@
 
 Moments
 <details>
-    <summary>[1920 Birth Cohort Moments](./1920_moments)</summary>
-
-    [Mean Son Rank by Father Rank: 1940 Census png]https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/moms_1920bc.png()
-    [Mean Son Rank by Father Rank: 1940 Census by Race png](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/moms_1920bc_race.png)
+    <summary>1920 Birth Cohort Moments</summary>
+    
+    ### Links to Graphs
+    - [Mean Son Rank by Father Rank: 1940 Census png](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/moms_1920bc.png)
+    - [Mean Son Rank by Father Rank: 1940 Census by Race png](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/moms_1920bc_race.png)
 </details>
 
 Transition matrices:
