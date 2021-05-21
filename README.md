@@ -13,8 +13,8 @@ Moments by cohort
 | 1980s (PSID 2015) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_son.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_dot.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_bth.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_son_race.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_dot_race.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_bth_race.png) |
 
 All cohorts moments (older):
-    - [Mean son rank by father rank](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/father-son-rank.png)
-    - [Mean son rank by father rank and race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/father-son-rank-race.png)
+- [Mean son rank by father rank](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/father-son-rank.png)
+- [Mean son rank by father rank and race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/father-son-rank-race.png)
 
 Transition matrices:
 - [1960-80 Birth cohorts (PSID)](./psid_tms)
