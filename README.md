@@ -16,6 +16,9 @@ Transition matrices:
 - [1970 Birth cohort by race (PSID)](./1970psid_tms_race)
 - [1980 Birth cohort by race (PSID)](./1980psid_tms_race)
 
+Co-residence bias:
+- [When do kids move out vs stop school: 1920 Census](./1940_coresidence_bias)
+
 Time series:
 - [Father HS completion by race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/levels/father_hs.png)
 - [Son HS completion by race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/levels/son_hs.png)
