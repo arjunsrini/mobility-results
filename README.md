@@ -17,6 +17,7 @@ All cohorts moments (older):
 - [Mean son rank by father rank and race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/father-son-rank-race.png)
 
 Transition matrices:
+- [1920-25 Birth cohort (1940 Census)](./txt/census1940.txt)
 - [1960-80 Birth cohorts (PSID)](./psid_tms)
 - [1957-64 Birth cohort (NLSY79)](./txt/nlsy79.txt)
 - [1960 Birth cohort by race (PSID)](./1960psid_tms_race)
