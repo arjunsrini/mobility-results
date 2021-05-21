@@ -12,16 +12,16 @@ Moments by cohort
 | 1980-84 (NLSY97) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/nlsy97_son.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/nlsy97_dot.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/nlsy97_bth.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/nlsy97_son_race.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/nlsy97_dot_race.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/nlsy97_bth_race.png) |
 | 1980s (PSID 2015) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_son.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_dot.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_bth.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_son_race.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_dot_race.png) | [plot](./https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moments/psid80_bth_race.png) |
 
-
-
 All cohorts moments (older):
     - [Mean son rank by father rank](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/father-son-rank.png)
     - [Mean son rank by father rank and race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/father-son-rank-race.png)
 
 Transition matrices:
 - [1960-80 Birth cohorts (PSID)](./psid_tms)
+- [1957-64 Birth cohort (NLSY79)](./txt/nlsy79.txt)
 - [1960 Birth cohort by race (PSID)](./1960psid_tms_race)
 - [1970 Birth cohort by race (PSID)](./1970psid_tms_race)
+- [1980-84 Birth cohort (NLSY97)](./txt/nlsy97.txt)
 - [1980 Birth cohort by race (PSID)](./1980psid_tms_race)
 
 Co-residence bias:
