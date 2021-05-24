@@ -1,6 +1,6 @@
 #### 1920s Birth cohort (not using high school):
-- [1920 Birth cohort: transition matrix](./1920_tms)
-- [1920 Birth cohort: transition matrix by race](./1920_tms_race)
+- [1920 Birth cohort: transition matrix](./1920_tms.md)
+- [1920 Birth cohort: transition matrix by race](./1920_tms_race.md)
 - [1920 Birth cohort: mean son rank by father rank](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/moms_1920bc.png)
 - [1920 Birth cohort: mean son rank by father rank and race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/moms/moms_1920bc_race.png)
 
@@ -21,4 +21,4 @@
     - [E(Y>33\|X<50)](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/ts/ts_bh_33_gndr.png)
 - Bottom half to hs, college by race
     - [Plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/ts/ts_bh_levels.png)
-    - [Boundaries by dataset](./boundaries)
+    - [Boundaries by dataset](./boundaries.md)
