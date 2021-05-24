@@ -13,7 +13,7 @@ No, not in school |  1,696|   2,321|   3,580|   6,584|  10,172|  17,405|  19,893
 Yes, in school    | 23,409|  23,433|  22,340|  19,680|  15,423|   9,655|   5,323|   3,077|   2,014|   1,273|     801|
 
 ## Highgest grade by age
-This is born out in the "highest grade completed" variable too
+This is borne out in the "highest grade completed" variable too
 
 higest grade             |    13|     14|     15|     16|     17|     18|     19|     20|     21|     22|     23|
 -------------------------|------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
