@@ -2,7 +2,7 @@
 
 Parent = rows, child = columns.
 
-### 1960s Birth Cohort (PSID)
+### 1970s Birth Cohort (PSID)
 
 White Sons
 
