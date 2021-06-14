@@ -1,5 +1,20 @@
 # US educational mobility
 
+## Distribution Fitting
+
+Can see mse, mean, and sd of all fits [here](./txt/fits.txt). This table shows plots of mse of fitted normal distributions to son education distributions.
+
+|  Parent Ed Level:                               | All | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---------------------------------|-----------------|---|---|---|---|---|---|---|
+| 1920-25 (1940 Census)           | [plot](urlbit/c1940_norm_all.png) | [plot](urlbit/c1940_norm_1.png) | [plot](urlbit/c1940_norm_2.png) | [plot](urlbit/c1940_norm_3.png) | [plot](urlbit/c1940_norm_4.png) | [plot](urlbit/c1940_norm_5.png) | [plot](urlbit/c1940_norm_6.png) | [plot](urlbit/c1940_norm_7.png) |
+| 1942-52 (NLS Young Men & Women) |                 |   |   |   |   |   |   |   |
+| 1957-64 (NLSY79)                | [plot](urlbit/nlsy79_norm_all.png) | [plot](urlbit/nlsy79_norm_1.png) | [plot](urlbit/nlsy79_norm_2.png) | [plot](urlbit/nlsy79_norm_3.png) | [plot](urlbit/nlsy79_norm_4.png) | [plot](urlbit/nlsy79_norm_5.png) | [plot](urlbit/nlsy79_norm_6.png) |  |
+| 1960-69 (PSID 2015)             | [plot](urlbit/psid15_60_norm_all.png) | [plot](urlbit/psid15_60_norm_1.png) | [plot](urlbit/psid15_60_norm_2.png) | [plot](urlbit/psid15_60_norm_3.png) | [plot](urlbit/psid15_60_norm_4.png) | [plot](urlbit/psid15_60_norm_5.png) |  |  |
+| 1970-79 (PSID 2015)             |  [plot](urlbit/psid15_70_norm_all.png) | [plot](urlbit/psid15_70_norm_1.png) | [plot](urlbit/psid15_70_norm_2.png) | [plot](urlbit/psid15_70_norm_3.png) | [plot](urlbit/psid15_70_norm_4.png) | [plot](urlbit/psid15_70_norm_5.png) |  |  |
+| 1978-83 (2000 Census)           |  [plot](urlbit/c2000_norm_all.png) | [plot](urlbit/c2000_norm_1.png) | [plot](urlbit/c2000_norm_2.png) | [plot](urlbit/c2000_norm_3.png) | [plot](urlbit/c2000_norm_4.png) |  |  |  |
+| 1980-84 (NLSY97)                |  [plot](urlbit/nlsy97_norm_all.png) | [plot](urlbit/nlsy97_norm_1.png) | [plot](urlbit/nlsy97_norm_2.png) | [plot](urlbit/nlsy97_norm_3.png) | [plot](urlbit/nlsy97_norm_4.png) | [plot](urlbit/nlsy97_norm_5.png) |  |  |
+| 1980-89 (PSID 2015)             |  [plot](urlbit/psid15_80_norm_all.png) | [plot](urlbit/psid15_80_norm_1.png) | [plot](urlbit/psid15_80_norm_2.png) | [plot](urlbit/psid15_80_norm_3.png) | [plot](urlbit/psid15_80_norm_4.png) | [plot](urlbit/psid15_80_norm_5.png) |  |  |
+
 ## Moments by cohort
 
 | Cohort (Data)      | Sons      | Daughters | Both |Sons by Race |Daughters by Race |Both by Race |
