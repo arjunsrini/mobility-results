@@ -4,7 +4,7 @@
 
 Can see mse, mean, and sd of all fits [here](./txt/fits.txt). This table shows plots of mse of fitted normal distributions to son education distributions.
 
-|  Parent Ed Level:                               | All | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|  Parent Ed :                               | All | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---------------------------------|-----------------|---|---|---|---|---|---|---|
 | 1920-25 (1940 Census)           | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/c1940_norm_all.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/c1940_norm_1.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/c1940_norm_2.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/c1940_norm_3.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/c1940_norm_4.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/c1940_norm_5.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/c1940_norm_6.png) | [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/c1940_norm_7.png) |
 | 1942-52 (NLS Young Men & Women) |                 |   |   |   |   |   |   |   |
