@@ -1,200 +1,616 @@
-Dataset: c1940, Distib: norm, ParentEdLvl: all
-MSE, Mean, SD: [0.0003649885251399769, 51.55728968655491, 29.857750975958208]
-Dataset: c1940, Distib: norm, ParentEdLvl: 1
-MSE, Mean, SD: [0.00041907734144017237, 38.03928155683949, 35.50104540430446]
-Dataset: c1940, Distib: norm, ParentEdLvl: 2
-MSE, Mean, SD: [0.001092129753349905, 29.66129780568516, 29.383343930046454]
-Dataset: c1940, Distib: norm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0016778417510197616, 41.35234358261353, 27.43376425576448]
-Dataset: c1940, Distib: norm, ParentEdLvl: 4
-MSE, Mean, SD: [4.921775292873101e-05, 52.19372220639275, 22.732068570954233]
-Dataset: c1940, Distib: norm, ParentEdLvl: 5
-MSE, Mean, SD: [0.00021635056101538383, 61.409187585395316, 23.2502460691893]
-Dataset: c1940, Distib: norm, ParentEdLvl: 6
-MSE, Mean, SD: [2.434324309925195e-05, 64.27968693700784, 19.60390829617701]
-Dataset: c1940, Distib: norm, ParentEdLvl: 7
-MSE, Mean, SD: [4.814080934721643e-06, 64.6548941172623, 17.577099490820945]
-Dataset: c1940, Distib: lognorm, ParentEdLvl: all
-MSE, Mean, SD: [0.0025575916053192193, 4.0760236781970365, 0.5433552768392805]
-Dataset: c1940, Distib: lognorm, ParentEdLvl: 1
-MSE, Mean, SD: [0.01040146009030877, 3.8815797743750338, 0.852527974455167]
-Dataset: c1940, Distib: lognorm, ParentEdLvl: 2
-MSE, Mean, SD: [0.005179254512020559, 3.4543022401762697, 1.1847089929741448]
-Dataset: c1940, Distib: lognorm, ParentEdLvl: 3
-MSE, Mean, SD: [0.003489138968037767, 3.897774367271432, 0.6669682985620411]
-Dataset: c1940, Distib: lognorm, ParentEdLvl: 4
-MSE, Mean, SD: [0.000591801641692229, 4.0362053382405065, 0.4409027843210878]
-Dataset: c1940, Distib: lognorm, ParentEdLvl: 5
-MSE, Mean, SD: [0.0006699636238597613, 4.130169403210969, 0.37622415082642524]
-Dataset: c1940, Distib: lognorm, ParentEdLvl: 6
-MSE, Mean, SD: [7.435100876892559e-05, 4.118246772981451, 0.3076148600558416]
-Dataset: c1940, Distib: lognorm, ParentEdLvl: 7
-MSE, Mean, SD: [1.422021507972936e-05, 4.105759946419644, 0.2741622689774441]
-Dataset: nls66, Distib: norm, ParentEdLvl: all
-MSE, Mean, SD: [0.0006338757079756496, 56.34299424497058, 30.604375527355966]
-Dataset: nls66, Distib: norm, ParentEdLvl: 1
-MSE, Mean, SD: [0.00997715446492445, 22.831004146220366, 33.2338739603116]
-Dataset: nls66, Distib: norm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0008658804982494421, 36.540955787391034, 28.912066299612444]
-Dataset: nls66, Distib: norm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0007974032206486999, 45.25024402385915, 28.897034878328853]
-Dataset: nls66, Distib: norm, ParentEdLvl: 4
-MSE, Mean, SD: [8.492743574353097e-05, 62.15055044586191, 22.281585633252348]
-Dataset: nls66, Distib: norm, ParentEdLvl: 5
-MSE, Mean, SD: [1.144229804760857e-06, 69.25317347258849, 14.091896912050856]
-Dataset: nls66, Distib: lognorm, ParentEdLvl: all
-MSE, Mean, SD: [0.0018380292545712895, 4.1488413113182405, 0.4857239541782062]
-Dataset: nls66, Distib: lognorm, ParentEdLvl: 1
-MSE, Mean, SD: [0.0011785080215362016, 3.2548037423322826, 1.3554717490775574]
-Dataset: nls66, Distib: lognorm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0009533451198664793, 3.7520285011003898, 0.8329522798032918]
-Dataset: nls66, Distib: lognorm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0024245076403432474, 4.006056965359278, 0.645231752371612]
-Dataset: nls66, Distib: lognorm, ParentEdLvl: 4
-MSE, Mean, SD: [0.0001765095231769845, 4.123234098374079, 0.3197833489624459]
-Dataset: nls66, Distib: lognorm, ParentEdLvl: 5
-MSE, Mean, SD: [1.1702001163406623e-06, 4.191955235827311, 0.18966857347670021]
-Dataset: nlsy79, Distib: norm, ParentEdLvl: all
-MSE, Mean, SD: [0.0009215882129143338, 51.93391338429782, 33.67038709989756]
-Dataset: nlsy79, Distib: norm, ParentEdLvl: 1
-MSE, Mean, SD: [0.002785357021426855, 13.116453402796001, 12.721055308490035]
-Dataset: nlsy79, Distib: norm, ParentEdLvl: 2
-MSE, Mean, SD: [0.002236035106382125, 32.74292007652743, 30.117728674801533]
-Dataset: nlsy79, Distib: norm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0006515325333661906, 51.21966123995788, 29.107694210281174]
-Dataset: nlsy79, Distib: norm, ParentEdLvl: 4
-MSE, Mean, SD: [0.0030562465746286163, 75.48675380219973, 25.52352087346921]
-Dataset: nlsy79, Distib: norm, ParentEdLvl: 5
-MSE, Mean, SD: [0.0054845922639415665, 91.98074400214765, 13.777293102494442]
-Dataset: nlsy79, Distib: norm, ParentEdLvl: 6
-MSE, Mean, SD: [0.008736155526015437, 95.67938423231924, 9.876061766800083]
-Dataset: nlsy79, Distib: lognorm, ParentEdLvl: all
-MSE, Mean, SD: [0.0018449142706431143, 4.130042184050268, 0.5967141703723001]
-Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 1
-MSE, Mean, SD: [0.000418545895145801, 3.1872588706703477, 1.1182811773983943]
-Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0009075353520346179, 3.513651374794882, 1.0181214960257603]
-Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0008887168052377487, 4.0582973988116535, 0.5182591133834611]
-Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 4
-MSE, Mean, SD: [0.005805805472586198, 4.32094436761108, 0.36854975470079804]
-Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 5
-MSE, Mean, SD: [0.006997971658938748, 4.53677728135508, 0.14212464970516103]
-Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 6
-MSE, Mean, SD: [0.008949610268674035, 4.56229359483649, 0.10365320521976532]
-Dataset: psid15_60, Distib: norm, ParentEdLvl: all
-MSE, Mean, SD: [0.0007188499144926848, 50.570384491068324, 33.427775098081554]
-Dataset: psid15_60, Distib: norm, ParentEdLvl: 1
-MSE, Mean, SD: [0.00028627191382518083, 39.50861553385894, 27.148189522121257]
-Dataset: psid15_60, Distib: norm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0010331437733911012, 44.04244501195881, 27.82836039225957]
-Dataset: psid15_60, Distib: norm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0016607019115186712, 60.93014858485477, 30.457910855789166]
-Dataset: psid15_60, Distib: norm, ParentEdLvl: 4
-MSE, Mean, SD: [0.004081005542339436, 75.28607321098477, 24.085252473253334]
-Dataset: psid15_60, Distib: norm, ParentEdLvl: 5
-MSE, Mean, SD: [0.016900139702711252, 88.44015012994181, 16.41048702721206]
-Dataset: psid15_60, Distib: lognorm, ParentEdLvl: all
-MSE, Mean, SD: [0.002138374642685196, 4.096538456171689, 0.6239473109326829]
-Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 1
-MSE, Mean, SD: [0.0014059004761823974, 3.703535492300982, 0.9180400167498155]
-Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0007575817912987079, 3.9478458653467046, 0.626620349468608]
-Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0022880338294542437, 4.152916686749081, 0.4943994392757306]
-Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 4
-MSE, Mean, SD: [0.008277863071517991, 4.337907040648862, 0.35294896356208494]
-Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 5
-MSE, Mean, SD: [0.020784928891444045, 4.476900662761539, 0.20395392774245186]
-Dataset: psid15_70, Distib: norm, ParentEdLvl: all
-MSE, Mean, SD: [0.0017035431535469114, 47.2500750521128, 34.53703835090138]
-Dataset: psid15_70, Distib: norm, ParentEdLvl: 1
-MSE, Mean, SD: [9.937838379511389e-05, 32.869124087831146, 27.377381701901378]
-Dataset: psid15_70, Distib: norm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0011237625895181725, 36.80864943701315, 27.567142581718137]
-Dataset: psid15_70, Distib: norm, ParentEdLvl: 3
-MSE, Mean, SD: [0.001757000717778592, 56.46851885197275, 32.3320399649181]
-Dataset: psid15_70, Distib: norm, ParentEdLvl: 4
-MSE, Mean, SD: [0.0031222475011023023, 76.52846017246236, 24.695496054625387]
-Dataset: psid15_70, Distib: norm, ParentEdLvl: 5
-MSE, Mean, SD: [0.0031546926734217625, 84.96236262763138, 18.330179450757278]
-Dataset: psid15_70, Distib: lognorm, ParentEdLvl: all
-MSE, Mean, SD: [0.0018317835782631479, 4.022230192534749, 0.7049901955438629]
-Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 1
-MSE, Mean, SD: [0.003909785683628415, 3.806434698444608, 0.7784117104312649]
-Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0004988915350289765, 3.8376266930955794, 0.680640707274784]
-Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 3
-MSE, Mean, SD: [0.002460185642547059, 4.083970734179248, 0.5902804676396172]
-Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 4
-MSE, Mean, SD: [0.005549637281368164, 4.386695203276251, 0.2851603109677818]
-Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 5
-MSE, Mean, SD: [0.004824985682776931, 4.450345394705376, 0.22506933060795323]
-Dataset: c2000, Distib: norm, ParentEdLvl: all
-MSE, Mean, SD: [0.002896996822236397, 54.686133290746106, 35.75614729452034]
-Dataset: c2000, Distib: norm, ParentEdLvl: 1
-MSE, Mean, SD: [0.0005884021150653752, 28.177446025718766, 29.664304074682374]
-Dataset: c2000, Distib: norm, ParentEdLvl: 2
-MSE, Mean, SD: [0.00293985691211148, 36.53224940730995, 28.527623121639856]
-Dataset: c2000, Distib: norm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0011627239891715707, 56.857623186644815, 31.833915102124458]
-Dataset: c2000, Distib: norm, ParentEdLvl: 4
-MSE, Mean, SD: [0.002014834851520242, 80.85784460881344, 18.869521261307966]
-Dataset: c2000, Distib: lognorm, ParentEdLvl: all
-MSE, Mean, SD: [0.0048602121027082335, 4.085258332410954, 0.669564577490047]
-Dataset: c2000, Distib: lognorm, ParentEdLvl: 1
-MSE, Mean, SD: [0.0028749348733443842, 3.3069663761558767, 1.3352802155560273]
-Dataset: c2000, Distib: lognorm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0014059997541425217, 3.8425689923036126, 0.7442815966255114]
-Dataset: c2000, Distib: lognorm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0029121644647001764, 4.092626832789473, 0.5783995963601634]
-Dataset: c2000, Distib: lognorm, ParentEdLvl: 4
-MSE, Mean, SD: [0.0024299087505643227, 4.3893533033558505, 0.22215445103554993]
-Dataset: nlsy97, Distib: norm, ParentEdLvl: all
-MSE, Mean, SD: [0.0009457378458205716, 53.53977007981, 37.64003810127239]
-Dataset: nlsy97, Distib: norm, ParentEdLvl: 1
-MSE, Mean, SD: [8.349391132118939e-05, 28.105882350327303, 27.377916430871167]
-Dataset: nlsy97, Distib: norm, ParentEdLvl: 2
-MSE, Mean, SD: [0.00012070617218237715, 28.153036829282144, 33.881653403892194]
-Dataset: nlsy97, Distib: norm, ParentEdLvl: 3
-MSE, Mean, SD: [0.001150756148971842, 41.95247347514931, 29.573943400982525]
-Dataset: nlsy97, Distib: norm, ParentEdLvl: 4
-MSE, Mean, SD: [0.001664751999570363, 69.95158211732678, 31.52775308272672]
-Dataset: nlsy97, Distib: norm, ParentEdLvl: 5
-MSE, Mean, SD: [0.001911533244093963, 85.72941542932503, 16.03357914306887]
-Dataset: nlsy97, Distib: lognorm, ParentEdLvl: all
-MSE, Mean, SD: [0.004185378609122281, 3.9778771147727756, 0.9184937456186982]
-Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 1
-MSE, Mean, SD: [0.0006570448522311241, 3.2905806275543887, 0.9202069185836164]
-Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0020903946932582314, 3.268280072828967, 1.088541228998122]
-Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0012089459469365451, 3.7735522061501525, 0.8353758265504146]
-Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 4
-MSE, Mean, SD: [0.004331738385426852, 4.333936453517525, 0.4538241877080871]
-Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 5
-MSE, Mean, SD: [0.0035921980064261083, 4.466411088296843, 0.18652611302317737]
-Dataset: psid15_80, Distib: norm, ParentEdLvl: all
-MSE, Mean, SD: [0.00120849498268799, 48.153941641122046, 34.00658189907391]
-Dataset: psid15_80, Distib: norm, ParentEdLvl: 1
-MSE, Mean, SD: [2.99100692210746e-05, 35.557385511474465, 26.613839436223333]
-Dataset: psid15_80, Distib: norm, ParentEdLvl: 2
-MSE, Mean, SD: [0.00037788530223620514, 40.67004778064457, 28.73505898682522]
-Dataset: psid15_80, Distib: norm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0010039267039672307, 55.19382384925406, 32.766994943023946]
-Dataset: psid15_80, Distib: norm, ParentEdLvl: 4
-MSE, Mean, SD: [0.004454243742556048, 82.21412065138745, 23.269417462473776]
-Dataset: psid15_80, Distib: norm, ParentEdLvl: 5
-MSE, Mean, SD: [0.00313501283926041, 87.4659248564704, 14.884432088444893]
-Dataset: psid15_80, Distib: lognorm, ParentEdLvl: all
-MSE, Mean, SD: [0.0017538000873009866, 4.052313708147744, 0.6703661377935423]
-Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 1
-MSE, Mean, SD: [0.0035446746374814034, 3.8264454153010536, 0.7087867729514135]
-Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 2
-MSE, Mean, SD: [0.0012465325271430014, 3.9167067551876635, 0.6390011454334541]
-Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 3
-MSE, Mean, SD: [0.0016315076876586604, 4.094429861623211, 0.5837858159521425]
-Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 4
-MSE, Mean, SD: [0.006500632125054542, 4.444353215730543, 0.2545296214349859]
-Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 5
-MSE, Mean, SD: [0.0050224176185788595, 4.476835120795405, 0.178084481667991]
+Dataset: nls66, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.06952319188525083, 12.27645589476599, 2.5557818680231943]
+Dataset: nls66, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06265910458956647, 11.026389784641042, 2.548421004753756]
+Dataset: nls66, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.04676919251350632, 10.396830546731465, 2.373215033518898]
+Dataset: nls66, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.07093416148811182, 11.537235450272764, 0.5996007646364152]
+Dataset: nls66, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.052353360245915234, 11.391422191134188, 1.105131433640711]
+Dataset: nls66, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.0794886466801893, 11.550728993748024, 0.6936850214624347]
+Dataset: nls66, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.04256190085479177, 11.442228051600905, 0.9141627653889408]
+Dataset: nls66, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06616637084771715, 13.113892106891523, 2.508383959589125]
+Dataset: nls66, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.03113126877721893, 12.561228668153767, 2.2004914518087233]
+Dataset: nls66, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.02865553587514753, 15.146180334212591, 2.181891970178821]
+Dataset: nls66, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.03442409693489693, 15.14702538697286, 1.7497622233458028]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.0649984748663845, 2.5174955980924336, 0.18676799058447685]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06546316635438873, 2.4250485596425615, 0.22823389599994318]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.05307254057388738, 2.357314826118869, 0.23139207562892317]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.0703221603073169, 2.4443621323923557, 0.05208014820011105]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.05399368078758103, 2.4401336547456967, 0.09477492010117848]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.0784585335783698, 2.4497209823109594, 0.06136288718927417]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.04355730943128395, 2.4410829264530527, 0.07771957191592863]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06262872452185379, 2.5641882660270423, 0.17998056915713614]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.02800864536774558, 2.5316512933500914, 0.16420169922095645]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.03280008685263094, 2.7190443317099784, 0.14315160645324304]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.03980371405845286, 2.729555669897365, 0.10144779320515956]
+Dataset: nls66, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.06886722740938288, 11.507331255925687, 0.6011519885986605]
+Dataset: nls66, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.05101137431975761, 9.876478656567848, 2.103523152870986]
+Dataset: nls66, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.020033808743852296, 9.849060770500007, 2.5157285683772894]
+Dataset: nls66, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.04647493465758907, 11.45880568653614, 0.4862671956086313]
+Dataset: nls66, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.08735715846744309, 11.122093391069892, 1.20841844578543]
+Dataset: nls66, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.03744269488635816, 11.452208462946384, 0.4935952995096702]
+Dataset: nls66, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.0679100777466726, 11.389880151224483, 0.5982766290660493]
+Dataset: nls66, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.03666056446921817, 11.542355913033816, 0.4800120198810056]
+Dataset: nls66, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.06819178974998537, 11.565850014847797, 0.4918045875785495]
+Dataset: nls66, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07461073574625568, 13.441221545678461, 2.569572186011969]
+Dataset: nls66, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.07610878036615831, 11.682891982589553, 0.5767784136862097]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.06850801324281909, 2.443361955020534, 0.0526813310382324]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.05481794079457517, 2.293550685364298, 0.22453472103929717]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.021878688889259115, 2.31810695439327, 0.25345772738188405]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.046611057305396705, 2.4388203300815987, 0.04243287443700793]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.09110077935726503, 2.4324975499540504, 0.06235093966205555]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.037622080941034, 2.4365555338038174, 0.042865253268453085]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.06865749026354419, 2.432992352086701, 0.05180257714836457]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.03648078559704789, 2.445644587756537, 0.0417561200311428]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.06784733685320189, 2.4475813295983264, 0.04295729136186445]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07127387176018873, 2.586313057413402, 0.18279772170491945]
+Dataset: nls66, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.07541502474853244, 2.457956186497695, 0.05022975986351706]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.10349847188177456, 11.817348471512192, 1.7116730566758154]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.051695395807046934, 11.32637851229724, 0.6741138879275184]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.018071620025526376, 11.370283038937298, 0.39422245708275483]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06557856208205004, 11.456182833514859, 0.5894034267551288]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.04231783704990168, 11.441720062277927, 0.6260499244319675]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.12148205157275166, 11.542705597824853, 0.6570398158993254]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.06790997930929096, 11.46822436300634, 0.5311378242751417]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08039218554386227, 14.335846558193497, 2.967412103920795]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.07374778292541995, 13.482881241216038, 0.6276721249133868]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.0537826412415476, 15.85232320564824, 2.696235208969888]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.05052924347458213, 14.230402247887842, 2.3440171706079695]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 6, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.049621094872539885, 15.607854324624713, 3.4525511894935317]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 6, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.34869356633953796, 16.588149036822337, 1.8839416660928414]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.09755718105136978, 2.492091477252627, 0.15625052182711247]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.05327875057585339, 2.428675872250572, 0.058283435376056514]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.018108680710955668, 2.4302604706579833, 0.03421618871574296]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06552022065869714, 2.4387188735512733, 0.0514151586293569]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.04269736974134018, 2.4380099638478705, 0.054117768224423005]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.11943666044394934, 2.4495240336779696, 0.060078477592564]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.06787057126438352, 2.439594746558369, 0.046249296976268735]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08113507452710635, 2.6543327303322695, 0.2058207843954157]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.07458228886779396, 2.6020070301136706, 0.04597050463710031]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.05542410794705528, 2.7705892589859245, 0.15981173813212957]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.0487869891839919, 2.6452127036311848, 0.15881762774252575]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 6, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.05177186360614207, 2.7377262808183374, 0.22374071906619883]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 6, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.3482371803248286, 2.808816557160904, 0.10839466460275704]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.09230150352495112, 12.491462138919864, 2.301945409329898]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.06229069474320763, 11.476160037451425, 0.5446294443351896]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.06715447032200764, 11.400756109634012, 0.6435593965010469]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07148472430392662, 11.475439183785214, 0.5866949608419763]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.05049781310486312, 11.484501336891652, 0.5543068403638536]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.11100368878547962, 12.545833301141402, 2.215522891973123]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.09469039803526384, 11.527532656367717, 0.6936516127049508]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.05876578910462623, 14.273373250981805, 2.334886833260562]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.01809903153572103, 13.699322684314314, 2.047219088148095]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07638047568100809, 15.637899799078326, 2.390230431120081]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.04758866209342495, 16.10660833772497, 2.9462709134836196]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 6, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.09155706509317933, 15.980378654667643, 2.2348946631708326]
+Dataset: nlsy79, Distib: norm, ParentEdLvl: 6, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.12282887250104203, 16.20522445166745, 3.820499827292604]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.08653271892963894, 2.5300594385395136, 0.17724976245784396]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.0620998176354657, 2.439966071978061, 0.04755995836691838]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.06746609836760324, 2.4345183756652746, 0.055568690762400175]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07118887765933987, 2.440629512715527, 0.051041714136150745]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.050169724219491604, 2.440973508093138, 0.04846376114619393]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.10403223238053792, 2.5373750466118654, 0.16795337448081363]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.09353293042492558, 2.4468098482103526, 0.061414935620307844]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.058380233039773924, 2.656512600096118, 0.16730724480409317]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.016523939495001336, 2.6217214239222866, 0.15451255480411316]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07811687220422171, 2.7561949197762137, 0.14517159792503104]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.044954519228104534, 2.7715981393764837, 0.18050605619003687]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 6, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.09101321179903403, 2.7721330588805495, 0.13541730838519717]
+Dataset: nlsy79, Distib: lognorm, ParentEdLvl: 6, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.12218620103369311, 2.7772236777289434, 0.244006545699871]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.09607980529279002, 12.693419157644236, 2.5091953428308056]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08617865162781617, 11.526884530690618, 0.5799819665677219]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.047896895491969085, 11.540226109825957, 0.5816831983638018]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.1167981356242939, 11.555808175599593, 0.637710018177664]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.06354668552411864, 11.529516227761741, 0.5660819638988457]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08501521935188948, 13.694468095226217, 2.8003714395316237]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.09702525794677903, 12.699142951065113, 1.7856265130939537]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.11382403525068754, 14.321842005286165, 2.4019255898315404]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.06418119424755178, 13.075401037734217, 0.941740122854279]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.02685137931092374, 15.658371756842204, 1.8786563485638705]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.14380901181698952, 13.781096629897066, 2.783281482657067]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.0899304651230826, 2.5366767039114984, 0.18235667283431323]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08557174354982622, 2.4446370457908384, 0.05056985654300867]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.04710254323604361, 2.446011200406275, 0.05113899156995376]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.11515708940969085, 2.450530560131493, 0.0574921700689215]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.0629058920725572, 2.4447540051980456, 0.04961456475530354]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08130466006422377, 2.6061173882848894, 0.19871240966406215]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.09319624617817919, 2.5393192220784058, 0.13781675974945196]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.11872470164754481, 2.646294238878538, 0.1819076340990483]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.06840496182067551, 2.5720850155025152, 0.07604249632557629]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.027930911451619706, 2.7485466170232744, 0.12838859418441248]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.14320105623587637, 2.6111799697798723, 0.2035344110545344]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.053806813024816644, 12.932537190339605, 2.5111799739927214]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07254561851691041, 12.196808946507073, 1.5145265681390399]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.04151005797658302, 11.958364705500934, 1.427433698920181]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07280824083403788, 13.161451985235859, 2.4490912206902546]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.0751124058666397, 12.245088284290626, 1.7610124807234069]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.02817199020297543, 14.38240689690278, 2.6134448270832795]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.028423627842221817, 13.06583394991706, 2.172209538349545]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07334482847117921, 15.698310302484746, 0.6623222142450143]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.04743933024760392, 13.963781691645325, 1.7189218654356782]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.01544448049129755, 16.09401516149294, 1.3548874898375818]
+Dataset: psid15_60, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.3903623975144208, 12.797176824141607, 2.4136772579833288]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.04986024361341256, 2.559100627270832, 0.18139929977198968]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.066168857595341, 2.5152030260649307, 0.12943227202146437]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.03819813575094174, 2.4899559687711275, 0.11985695491511354]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.06675362286200065, 2.5722797184780384, 0.1762381179091954]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.06990545661920322, 2.5098902743314357, 0.14048905065793393]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.02762462088072248, 2.6590328037589415, 0.1858121066042896]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.027023081920044066, 2.568980834167544, 0.16099395108847914]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.0739978931043378, 2.7533838940753643, 0.042347942964847035]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.043531399886043265, 2.6365353031772134, 0.11901409965166573]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.016402679169149045, 2.779407638873021, 0.08493986658365753]
+Dataset: psid15_60, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.33183538233024423, 2.4419444276749993, 0.04605356385129763]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.0641870113735536, 13.088509157049316, 2.510434622977243]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08089175762224948, 11.892990222020346, 1.4850358005079105]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.03935622916000814, 11.560257917542025, 0.7275603945298741]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08744021616302664, 12.451471727166647, 1.99811868006997]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.08014799024592534, 11.608755271973122, 0.7196686893873387]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.05413917189752436, 13.769392675733055, 2.332500307548255]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.06892149970097475, 13.374950767960032, 2.694366495015995]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06287475174646841, 14.65952802319711, 2.0146418053652297]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.06802201564057288, 13.645924477768315, 2.41509484016178]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.050862258402479564, 15.740136382428929, 0.9283455279734536]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.05810705327305682, 14.346300647446666, 2.85325911971675]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.060044794400199095, 2.5643800919540096, 0.1829364740472282]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.07584013193195212, 2.4794490703766248, 0.11944366945296037]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.03740560341474745, 2.4494526415490463, 0.06429507932686564]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08008680144993821, 2.5224540065822096, 0.14959644816212886]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.07671568519586959, 2.4566087678421225, 0.06766204465856408]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.053896984099640464, 2.615681403021429, 0.16925336485813577]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.06215206889825929, 2.587949013704444, 0.19290253794458243]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06802439323617021, 2.679175184430787, 0.14374514997444676]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.06866425767306576, 2.6027638023032718, 0.17770224788752967]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.052683799789642376, 2.757812538875172, 0.056556824016526966]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.05692432126970026, 2.657440058839172, 0.20292571879595772]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.0399800779416075, 13.590951063111609, 2.600744158803936]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.04877679148855266, 12.843579046209172, 2.3412377109070928]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.014887366188556269, 12.37610510910027, 1.9364159124715659]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07451687262672625, 13.109481781904083, 2.2842826583518967]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.04743433723429121, 12.949728701130992, 2.2305133007927918]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.03891267256054344, 14.777480329753484, 2.2970549056635985]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.030561766246648508, 13.844693627384935, 2.619595494420423]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.05811538912387076, 15.12529527823743, 1.936321657380164]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.02295672579687983, 14.557016428045575, 2.633277471533143]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.018461231167171896, 15.928006051433306, 0.7016932686732105]
+Dataset: psid15_70, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.020632607357394472, 14.863647089747943, 2.4443651478239214]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.03881910017185905, 2.6015836574568993, 0.18827951777540816]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.04518459090966591, 2.5531363689105184, 0.17126251612596757]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.012991832037347547, 2.5213110239512297, 0.152734201031259]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.07167750261933616, 2.571039704893095, 0.16584316307810207]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.04160493407987516, 2.55897901573638, 0.16654553843838704]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.04026480058988056, 2.688329264754684, 0.1596731663855058]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.02630892012262934, 2.622798346412686, 0.18836916636316406]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.06418678254293296, 2.7140603065152735, 0.13404240057693229]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.022062462796178132, 2.674144226916367, 0.18466657954816804]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.018673156987792504, 2.768275902321511, 0.044585090596936834]
+Dataset: psid15_70, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.018643403730085793, 2.697638653700373, 0.16624570029226454]
+Dataset: c2000, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.0015906670473760567, 12.685105343924711, 2.2238291226198257]
+Dataset: c2000, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.002416466969476003, 11.200516351354494, 1.8326522372381895]
+Dataset: c2000, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.00019319603734697883, 10.952873099791647, 1.9844816858679089]
+Dataset: c2000, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.00783834804042448, 12.142113982576692, 1.8940831456944398]
+Dataset: c2000, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.002146043682134228, 11.403672341205343, 1.731522417155908]
+Dataset: c2000, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.0002633474417365796, 12.954314092724609, 1.9623794931935148]
+Dataset: c2000, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.00040661093879757046, 12.108808418436134, 1.8855297496899865]
+Dataset: c2000, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [3.289144277853268e-05, 14.370074312875298, 2.309208964513058]
+Dataset: c2000, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.0004975973701517951, 13.10632784602849, 1.9882141145729868]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [2.819361835758395e-05, 2.536048082112942, 0.1804377037884992]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.00031993303909420975, 2.414722320999428, 0.16385682960275774]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.00020784120236067938, 2.3902091640427394, 0.176907599106287]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.002394268583518279, 2.493826289523518, 0.15683956115898307]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.0001576052973543237, 2.433277284195579, 0.15373279683895022]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.000137260438051615, 2.559836347781417, 0.15414467094263717]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.003585883864069979, 2.492458546558947, 0.15650343442923395]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [4.651439685364078e-05, 2.6684520919648786, 0.1777994815493363]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.002238818895196755, 2.573187254465895, 0.15326167543999433]
+Dataset: c2000, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [2.9676509724887024e-06, 13.388992359869507, 2.204144559290656]
+Dataset: c2000, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [7.184195485270528e-06, 11.86437452574212, 2.0252589340451728]
+Dataset: c2000, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.0012511438098386568, 11.866425340483534, 2.04549325357916]
+Dataset: c2000, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.0007102916594714722, 12.901998967123852, 1.9850956895223195]
+Dataset: c2000, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [3.307156618246481e-05, 12.405510757925493, 1.8970250764780427]
+Dataset: c2000, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.00014431816439437818, 13.629604505329102, 1.8790797811876558]
+Dataset: c2000, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.002388805900364868, 13.084631295657791, 1.7130338581752191]
+Dataset: c2000, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [2.7712059377829844e-05, 15.177587999748123, 2.320626689957015]
+Dataset: c2000, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.00038136005376738884, 14.138559741976422, 2.069632667090735]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.0006711697823837573, 2.5936482093798787, 0.17205037753316677]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.0013348304783678373, 2.4693989448928075, 0.17194114455227896]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.005537706158393119, 2.468498616131629, 0.17446073939543108]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [8.013058779826881e-06, 2.5552900476950535, 0.15702664004156028]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.0018173824434019872, 2.5171382187344706, 0.15320996003119816]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.0006318338515990033, 2.6122244058983277, 0.1428951022602593]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.004401778349668584, 2.5725262085975227, 0.1288964657029818]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.00012328529214244142, 2.729215755778369, 0.17626064895762553]
+Dataset: c2000, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.0009030164776369561, 2.6507844298207757, 0.15636713329084737]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.01847992095417988, 13.744970841344834, 3.3036111204789886]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.041535725510185605, 13.39518839962, 4.384086941690892]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.05036982997997844, 10.663866054422497, 2.0347717616731025]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.028859669156756352, 11.413281894225829, 2.4681313808404877]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.04529915693074847, 11.455537942851308, 2.165655714567743]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.022851667393898323, 13.242844509521387, 3.0947271859914185]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.018574093635385445, 13.250658374899823, 2.7743688300400464]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.021785505553175797, 15.317195264879508, 2.716203898248402]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.011592287499349143, 14.886284707204847, 2.8707786067329994]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.01729304400557253, 16.53518877959758, 2.2246685615520256]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.020481172148044683, 15.729222525866575, 2.2613175160438246]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.019194686054297718, 2.6149575758653407, 0.22978259965567774]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.034874237278692044, 2.5675687109349816, 0.30637268585392063]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.046421159841144664, 2.377023151549486, 0.18711366518248532]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.028593626344608408, 2.4574848480779403, 0.22146069309900182]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.04360874040150825, 2.452065134101827, 0.18575553458420455]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.021307254138593374, 2.5799877545824104, 0.22027073280316134]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.01670018902381986, 2.592504456344603, 0.2051171795674635]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.025345203495666543, 2.7294413575250958, 0.17243369868743155]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.014103707824176808, 2.6951940551429567, 0.18972298391180326]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.017558987116747207, 2.809611308555528, 0.12597504086068093]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.0197127439528726, 2.7535491851036356, 0.1364231784677886]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.01847992095417988, 13.744970841344834, 3.3036111204789886]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.041535725510185605, 13.39518839962, 4.384086941690892]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.05036982997997844, 10.663866054422497, 2.0347717616731025]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.028859669156756352, 11.413281894225829, 2.4681313808404877]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.04529915693074847, 11.455537942851308, 2.165655714567743]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.022851667393898323, 13.242844509521387, 3.0947271859914185]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.018574093635385445, 13.250658374899823, 2.7743688300400464]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.021785505553175797, 15.317195264879508, 2.716203898248402]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.011592287499349143, 14.886284707204847, 2.8707786067329994]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.01729304400557253, 16.53518877959758, 2.2246685615520256]
+Dataset: nlsy97, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.020481172148044683, 15.729222525866575, 2.2613175160438246]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.019194686054297718, 2.6149575758653407, 0.22978259965567774]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.034874237278692044, 2.5675687109349816, 0.30637268585392063]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.046421159841144664, 2.377023151549486, 0.18711366518248532]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.028593626344608408, 2.4574848480779403, 0.22146069309900182]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.04360874040150825, 2.452065134101827, 0.18575553458420455]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.021307254138593374, 2.5799877545824104, 0.22027073280316134]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.01670018902381986, 2.592504456344603, 0.2051171795674635]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.025345203495666543, 2.7294413575250958, 0.17243369868743155]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.014103707824176808, 2.6951940551429567, 0.18972298391180326]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.017558987116747207, 2.809611308555528, 0.12597504086068093]
+Dataset: nlsy97, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.0197127439528726, 2.7535491851036356, 0.1364231784677886]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.06690443080158216, 12.864908436410394, 2.4322984371443184]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08243198084135611, 11.564055858952713, 0.5961482303301082]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.026875043239637023, 11.580461810408455, 0.8377639221681505]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.09154618165326767, 12.358226074989053, 1.9366575043813548]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.05761584198848554, 11.64544617005056, 0.9833762669871146]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06266803201407692, 13.560566200549701, 2.590800315021479]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.052078853930651606, 12.49663782872042, 1.9143912897468969]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.06577978130599778, 14.65951295196689, 2.2276112465781353]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.029959288391453318, 13.854934631884566, 2.5806091515545546]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.017245985323865846, 15.824430390961686, 0.7862705897464188]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.08322698143669266, 13.49487833218325, 2.1455457900291464]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: m, Race: all
+MSE, Mean, SD: [0.06165442235215125, 2.5462497460548703, 0.17918226584976887]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08080202958525118, 2.4486905920188344, 0.05275275021493188]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.025676334287830224, 2.4522724479944795, 0.07273576699125694]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.08461330503344877, 2.5174532131307665, 0.14873806906440698]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.054661003486144645, 2.4600636836021237, 0.08634195057443983]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.061720224579777126, 2.603199193287458, 0.18596707954857455]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.04743748956113344, 2.5298852876333555, 0.14740576720092693]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.07148511652658754, 2.6699666853868744, 0.16709524907724657]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.030099330284056383, 2.619289870744823, 0.1879281428387621]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: w
+MSE, Mean, SD: [0.01774501769812055, 2.7618237622154114, 0.0495446224098692]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: m, Race: b
+MSE, Mean, SD: [0.08387316403037506, 2.5925176341776237, 0.15476844787358165]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.04564734218819748, 13.505493049627054, 2.5690166855127714]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.04702485774278463, 12.988446554391272, 2.4648277638159595]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.07333960686346325, 12.556750428855699, 1.9996351430109023]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.06962149716860157, 13.284777016582005, 2.423522659997479]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.06264757083352844, 12.255687178119304, 1.7880736872311829]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.037810671929449494, 14.145589951073692, 2.422782484303834]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.02218904944753536, 13.374159633147542, 2.2127023135874957]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.029907449391706087, 15.731885495627335, 0.6603316089421849]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.021258246208614714, 14.259954387456755, 2.1592622319721375]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.0066198992217421935, 15.893497621799233, 0.5869008286465931]
+Dataset: psid15_80, Distib: norm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.011493151541497208, 15.354948929796922, 1.2875939920785875]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: all, ChildEdVarType: hgc, Sex: f, Race: all
+MSE, Mean, SD: [0.04420908542403568, 2.5944360425577, 0.18616990655167925]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.04265231049731584, 2.5595247351175594, 0.17764919135822108]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 1, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.0670644478069372, 2.5323904404269086, 0.15438162107022127]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.06660358014821059, 2.5780302062907814, 0.17625245839386058]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 2, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.05548482994811102, 2.5186214366483797, 0.14790785881247406]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.03753214904334286, 2.643733167550892, 0.1721887363825424]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 3, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.0204718847956319, 2.588350553863421, 0.16273644449030147]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.03025818573943547, 2.755471834782194, 0.042312487272007315]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 4, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.022926138135414484, 2.6543752206975473, 0.15197251871034936]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: w
+MSE, Mean, SD: [0.006651887639242154, 2.765726055967067, 0.038005417929077655]
+Dataset: psid15_80, Distib: lognorm, ParentEdLvl: 5, ChildEdVarType: hgc, Sex: f, Race: b
+MSE, Mean, SD: [0.014192841561100114, 2.7330029764720396, 0.08254950291376716]
