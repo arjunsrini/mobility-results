@@ -14,6 +14,12 @@ where:
 - `{SEX}` can be: `m`, `f`
 - `{RACE}` can be: `all`, `b`, `w`
 
+For example, if you wanted to see the normal distribution fitted to sons of all parents in the nls66 data, you'd go [here](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/nls66_norm_all_hgc_m_all.png).
+
+If you wanted to see a lognormal distribution fitted to white daughters born in the 1970s to parents in the first education bin in the PSID data, you'd go [here](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/psid15_70_lognorm_1_hgc_f_w.png) 
+
+If you wanted to see a normal distribution fitted to black sons of parents in the second education bin in the 1997 NLSY, you'd go [here](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/mse/nlsy79_norm_2_hgc_m_b.png) 
+
 Note that if `{PARENT_ED}` is `all` then `{RACE}` must also be `all` as I have yet to fit distributions to solely black or white children of parents of all education levels.
 
 You can also view the fitted values and mse's in a hard to read text file [here](./txt/fits.txt).
