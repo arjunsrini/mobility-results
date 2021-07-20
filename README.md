@@ -1,6 +1,27 @@
 # US educational mobility
 
-## Distribution Fitting
+## Simulated Results
+
+There are four time series plots:
+- [E[Y>25\|X in [0,50]] from normal dists](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/E_25_0_50_ts.png)
+- [E[Y>25\|X in [0,50]] from normal dists, by race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/E_25_0_50_ts_race.png)
+- [E[Y>25\|X in [0,50]] from lognormal dists](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/E_25_0_50_ts_ln.png)
+- [E[Y>25\|X in [0,50]] from lognormal dists, by race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/E_25_0_50_ts_race_ln.png)
+
+To avoid an enormous table, I've uploaded all the images for E[Y>25] by dataset so you can access each by going using a version of this url with specified parameters:
+```
+https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/{DATA}_{SEX}_{BY_RACE}_{LOGDIST}.png
+```
+
+where:
+- `{DATA}` can be any of: `nls66`, `nlsy79`, `psid15_60`, `psid15_70`, `c2000`, `nlsy97`, `psid15_80` (still working on `c1940`)
+- `{SEX}` can be: `m`, `f`
+- `{BY_RACE}` is either empty (exclude the underscore too) or is `by_race`
+- `{DIST}` is either empty (exclude the underscore too) or is `ln`
+
+For example, if you wanted to see Y>25 for sons by parent bin from simulated data based on normal distributions fitted to 2000 census data, you'd go [here](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/c2000_m.png).
+
+## Old Distribution Fitting
 
 To avoid an enormous table, I've uploaded all the images and you can access each by going using a version of this url with specified parameters:
 ```
