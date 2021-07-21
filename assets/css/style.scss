@@ -1,8 +1,14 @@
 ---
 ---
 
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-@import "minima/initialize";
-.page {
-    width: calc(100% - #{$right-sidebar-width-narrow});
-  }
+@import "{{ site.theme }}";
+header {
+    width:270px;
+    float:left;
+    position:fixed;
+}
+section {
+    width:500px;
+    float:right;
+    padding-bottom:50px;
+}
