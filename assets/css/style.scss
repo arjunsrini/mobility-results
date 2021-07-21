@@ -3,12 +3,11 @@
 
 @import "{{ site.theme }}";
 header {
-    width:270px;
-    float:left;
-    position:fixed;
+    display: none;
 }
 section {
-    width:500px;
-    float:right;
-    padding-bottom:50px;
+    width: 100%;
+}
+footer {
+    display: none;
 }
