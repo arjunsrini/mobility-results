@@ -3,7 +3,7 @@ Year: 1947, Data: NLS66, Birth Cohort: 1942-52
 
 Arjun Srinivasan
 
-21 Jul 2021
+22 Jul 2021
 
 Transition matrices (by gender)
 -------------------------------
@@ -718,3 +718,24 @@ Simulated Data Mean and SD of HGC (by race, gender, parent ed bin)
               Variable |        Obs        Mean    Std. Dev.       Min        Max
           -------------+---------------------------------------------------------
                    hgc |      1,165    12.34731    .7349525   9.699002   14.63888
+
+Outcomes by Parent Bin and Gender
+---------------------------------
+
+![abv25](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/nls66_abv25.png)
+
+![abv80](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/nls66_abv80.png)
+
+![y](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/nls66_y.png)
+
+Outcomes by Parent Bin, Gender, and Race
+----------------------------------------
+
+![abv25 by
+race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/nls66_abv25_by_race.png)
+
+![abv80 by
+race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/nls66_abv80_by_race.png)
+
+![y by
+race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim/nls66_y_by_race.png)
