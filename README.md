@@ -2,7 +2,14 @@
 
 ## Results
 
-in progress
+Time series plots — outcome across birth cohorts, by gender:
+- [E[Y>=25\|X<50]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_25_0_50_ts.png)
+- [E[Y>=80\|X<20]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_80_0_20_ts.png)
+- [E[Y\|X<50]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_Y_0_50_ts.png)
+Same outcomes across birth cohorts, by gender and race:
+- [E[Y>=25\|X<50]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_25_0_50_br_ts.png)
+- [E[Y>=80\|X<20]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_80_0_20_br_ts.png)
+- [E[Y\|X<50]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_Y_0_50_br_ts.png)
 
 ## Confidence Checks by Dataset
 
