@@ -1,6 +1,6 @@
 # US educational mobility
 
-## Results
+## Results (Normal Fits)
 
 Time series plots — outcome across birth cohorts, by gender:
 - [E[Y>=25\|X<50]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_25_0_50_ts.png)
@@ -11,6 +11,19 @@ Same outcomes across birth cohorts, by gender and race:
 - [E[Y>=25\|X<50]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_25_0_50_br_ts.png)
 - [E[Y>=80\|X<20]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_80_0_20_br_ts.png)
 - [E[Y\|X<50]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_Y_0_50_br_ts.png)
+
+## Robustness Checks
+
+| Parent, Kernel    | Bottom Half Mobility |
+|-------------------|:--------------------:|
+| Mother, Normal    |         [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/mom_norm.png) [plot_by_race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/mom_norm.png)         |
+| Mother, Lognormal |         [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/mom_lnorm.png) [plot_by_race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/mom_lnorm.png)         |
+| Mother, Uniform   |         [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/mom_unif.png) [plot_by_race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/mom_unif.png)         |
+| Mother, Triangle  |         [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/mom_tri.png) [plot_by_race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/mom_tri.png)         |
+| Father, Normal    |         [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/dad_lnorm.png) [plot_by_race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/dad_lnorm.png)         |
+| Father, Lognormal |         [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/dad_lnorm.png) [plot_by_race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/dad_lnorm.png)         |
+| Father, Uniform   |         [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/dad_unif.png) [plot_by_race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/dad_unif.png)         |
+| Father, Triangle  |         [plot](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/dad_tri.png) [plot_by_race](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/k/dad_tri.png)         |
 
 ## Confidence Checks by Dataset
 
