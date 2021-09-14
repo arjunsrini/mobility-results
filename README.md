@@ -12,6 +12,10 @@ Same outcomes across birth cohorts, by gender and race:
 - [E[Y>=80\|X<20]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_80_0_20_br_ts.png)
 - [E[Y\|X<50]](https://media.githubusercontent.com/media/arjunsrini/mobility-results/main/figs/sim_ts/E_Y_0_50_br_ts.png)
 
+## Co-residence bias
+
+Page [here](./crbias.md).
+
 ## Robustness Checks
 
 | Parent, Kernel    | Bottom Half Mobility |
