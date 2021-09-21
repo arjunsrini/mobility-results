@@ -15,6 +15,7 @@ Same outcomes across birth cohorts, by gender and race:
 ## Co-residence bias
 
 Page [here](./crbias.md).
+Full text log [here](./crbias.log).
 
 ## Robustness Checks
 
